@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Day of Week", "Objects and classes - Lab\01. Day of Week.csproj", "{C5049743-C1F1-4B4B-A0E9-408856A61A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Randomize Words", "02. Randomize Words\02. Randomize Words.csproj", "{79F7B879-A0C3-483F-8B99-1F3B78186656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Big Factorial", "03. Big Factorial\03. Big Factorial.csproj", "{CA7F89F9-61EF-4E50-8E8B-A9557B76A104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Distance between Points", "04. Distance between Points\04. Distance between Points.csproj", "{8C0128FC-D5BB-41A1-A502-2FCAB4D69AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Closest Two Points", "05. Closest Two Points\05. Closest Two Points.csproj", "{DDDE02B7-942A-4E0F-8267-6F03037F6E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Rectangle Position", "06. Rectangle Position\06. Rectangle Position.csproj", "{7A9AAAAB-FD49-472D-85FE-EF62D184EB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sales Report", "07. Sales Report\07. Sales Report.csproj", "{65265B2A-5ADB-4584-A713-76661D680E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5049743-C1F1-4B4B-A0E9-408856A61A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5049743-C1F1-4B4B-A0E9-408856A61A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5049743-C1F1-4B4B-A0E9-408856A61A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5049743-C1F1-4B4B-A0E9-408856A61A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F7B879-A0C3-483F-8B99-1F3B78186656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F7B879-A0C3-483F-8B99-1F3B78186656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F7B879-A0C3-483F-8B99-1F3B78186656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F7B879-A0C3-483F-8B99-1F3B78186656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7F89F9-61EF-4E50-8E8B-A9557B76A104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7F89F9-61EF-4E50-8E8B-A9557B76A104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7F89F9-61EF-4E50-8E8B-A9557B76A104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7F89F9-61EF-4E50-8E8B-A9557B76A104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0128FC-D5BB-41A1-A502-2FCAB4D69AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0128FC-D5BB-41A1-A502-2FCAB4D69AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0128FC-D5BB-41A1-A502-2FCAB4D69AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0128FC-D5BB-41A1-A502-2FCAB4D69AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDE02B7-942A-4E0F-8267-6F03037F6E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDE02B7-942A-4E0F-8267-6F03037F6E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDE02B7-942A-4E0F-8267-6F03037F6E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDE02B7-942A-4E0F-8267-6F03037F6E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9AAAAB-FD49-472D-85FE-EF62D184EB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9AAAAB-FD49-472D-85FE-EF62D184EB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9AAAAB-FD49-472D-85FE-EF62D184EB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9AAAAB-FD49-472D-85FE-EF62D184EB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65265B2A-5ADB-4584-A713-76661D680E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65265B2A-5ADB-4584-A713-76661D680E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65265B2A-5ADB-4584-A713-76661D680E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65265B2A-5ADB-4584-A713-76661D680E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
